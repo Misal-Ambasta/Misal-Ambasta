@@ -12,7 +12,6 @@
 - ☁️ Exploring **AWS, Docker, and CI/CD pipelines**
 - 👯 Open to collaborate on **AI + backend projects**
 - 📫 Reach me 👉 **[misaalambasta@gmail.com](mailto:misaalambasta@gmail.com)**
-- 👨‍💻 Check out my work on [My Portfolio](https://Misal-Ambasta.github.io/)
 - 📄 Know about my experiences 👉 [Resume](https://drive.google.com/file/d/1egUcrM0O0YXiT4mq2Ux_3c7gKwSdspoy/view?usp=sharing)
 - ⚡ Fun fact 👉 I love read Defence related techs 🎨
 
